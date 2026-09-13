@@ -2,6 +2,11 @@
 
 Work-in-progress undergraduate capstone exploring machine-learning approaches to Nepal Stock Exchange (NEPSE) data.
 
+## Project timeline
+
+- **Capstone work:** 2026–present
+- **Repository created:** September 2026
+
 ## Status
 
 Project setup started. Data collection, exploratory analysis, baseline modeling, and time-series evaluation will be added as the work progresses.
